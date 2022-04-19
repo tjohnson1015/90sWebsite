@@ -1,0 +1,64 @@
+
+body{
+    background-image: url(images/nirvana.jpeg);
+}
+
+h1 {
+    border-style: groove;
+    border-color: yellow;
+    background-color: grey;
+    border-width: 20px;
+    color: yellow;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    font-size: 75px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.nevermind {
+    float: left;
+    margin-left: 10%;
+    border-style: groove;
+    background-color: grey;
+    border-width: 10px;
+}
+
+.inut {
+    float: right;
+    margin-right: 10%;
+    border-style: groove;
+    background-color: grey;
+    border-width: 10px;
+}
+
+.nevermindlisten {
+    float: left;
+    border-style: groove;
+    background-color: grey;
+    border-width: 10px;
+    color: yellow;
+    text-align: center;
+    font-size: 25px;
+    border-color: yellow;
+    margin-top: 25px;
+    width: 350px;
+    margin-left: 9%;
+    padding: 5px;
+}
+
+.inutlisten {
+    float: right;
+    border-style: groove;
+    background-color: grey;
+    border-width: 10px;
+    color: yellow;
+    text-align: center;
+    font-size: 25px;
+    border-color: yellow;
+    margin-top: 25px;
+    width: 350px;
+    margin-right: 9%;
+    padding: 5px;
+}
